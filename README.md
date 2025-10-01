@@ -45,7 +45,7 @@ The purpose of this dashboard is to help stakeholders **quickly understand busin
 
 ## Screenshot
 Since Power BI **requires a work/school email to publish dashboards online**, a live link could not be provided.  
-Instead, a **screenshot of the fully interactive dashboard** is included below:
+Instead, a **screenshot** is included below:
 
 ![Business Sales Dashboard Screenshot](./dashboard_screenshot.png)  
 
