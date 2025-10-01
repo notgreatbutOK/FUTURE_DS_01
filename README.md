@@ -47,7 +47,7 @@ The purpose of this dashboard is to help stakeholders **quickly understand busin
 Since Power BI **requires a work/school email to publish dashboards online**, a live link could not be provided.  
 Instead, a **screenshot** is included below:
 
-![Business Sales Dashboard Screenshot](./dashboard_screenshot.png)  
+![Business Sales Dashboard Screenshot](https://github.com/notgreatbutOK/FUTURE_DS_01/blob/main/Dashboard_pic.png?raw=true)  
 
 ---
 
